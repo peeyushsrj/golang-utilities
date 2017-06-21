@@ -1,4 +1,5 @@
-//This pgm writes unique strings from list of repeated strings separated by newlines, in a file given in commandline
+//This pgm writes unique strings from list of repeated strings separated by newlines, 
+//in a file given in commandline
 package main
 
 import (
